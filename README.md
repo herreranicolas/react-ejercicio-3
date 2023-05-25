@@ -1,4 +1,4 @@
-# Trabajo Práctico - React - Ejercicio Nro. 2 - Hello World V.3 🚀
+# Trabajo Práctico - React - Ejercicio Nro. 3 - Hello World V.3 🚀
 
 En este trabajo práctico aplicamos prácticas con componentes, ciclo de vida del componente, eventos, etc..
 
